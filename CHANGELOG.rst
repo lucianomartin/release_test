@@ -1,3 +1,8 @@
+1.0.4
+-----
+
+  Changed: More and more changes
+
 1.0.2
 -----
 
